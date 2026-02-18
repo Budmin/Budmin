@@ -3,7 +3,7 @@
 I'm Andrew Garvin, but I go by "Budmin" on most of my online profiles.
 
 * 🔭 I’m currently working on contributing to open source projects
-* 🌱 I’m currently learning German (Deutsch lernen macht viel Spaß)
+* 🌱 I’m currently learning Kotlin Multiplatform
 
 
 
@@ -17,6 +17,9 @@ I'm Andrew Garvin, but I go by "Budmin" on most of my online profiles.
 ![numpy](https://img.shields.io/badge/NumPy-gray?logo=numpy)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-gray?logo=tensorflow)
 
+![Java](https://img.shields.io/badge/Java-gray?logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-gray?logo=kotlin)
+![Spring](https://img.shields.io/badge/Spring-gray?logo=spring)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript)
